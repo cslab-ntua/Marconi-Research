@@ -1,0 +1,6 @@
+name: Marconi
+channels:
+  - defaults
+dependencies:
+  - git
+  - fastparquet
